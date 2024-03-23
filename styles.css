@@ -60,6 +60,7 @@ ul {
 .hero-content {
     display: flex;
     gap: 50px;
+    justify-content: space-between;
 }
 
 .hero-content-text {
@@ -190,3 +191,15 @@ ul {
 }
 
 /* beginning of section five */
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+}
+
+/* need to fix links in header and buttons to make them clickable */
